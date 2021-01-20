@@ -1,7 +1,8 @@
-### Hi there 👋
 
 <!--
 **thribeiro8/thribeiro8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello 👋, welcome to my profile!
+
+- 🔭 I’m currently working on Python and JS technologies;
+- 🌱 I’m currently learning more about SQL and PL/SQL;
+- 😄 I like so much to travel and watch movies.
+
