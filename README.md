@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### 👋 Hello Devs, Welcome to my profile!
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.gmail.com/tdrs@cin.ufpe.br/)](https://www.gmail.com/tdrs@cin.ufpe.br/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:thomas_tdrs@hotmail.com)](mailto:thomas_tdrs@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thribeiro8/)](https://www.instagram.com/thribeiro8/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-ribeiro-986699173/)](https://www.linkedin.com/in/thomas-ribeiro-986699173/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-darkblue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/thribeiro8/)](https://www.twitter.com/thribeiro8/)
