@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello Devs, Welcome to my profile!
+### 👋 Hello Devs, Welcome to my profile!
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.gmail.com/tdrs@cin.ufpe.br/)](https://www.gmail.com/tdrs@cin.ufpe.br/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thribeiro8/)](https://www.instagram.com/thribeiro8/)
@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 - 💻 I’m currently working on Python and JS technologies;
 - 📚 I’m currently learning more about SQL and PL/SQL;
 - 😄 I like so much to travel and watch movies;
-- 🌍 Inglês avançado, espanhol intermediário.
 - 👯 I am looking to collaborate on projects with open source. I believe in knowledge sharing as a methodology for improving human progress.
 
-# :man_technologist: Knowledge & Skills  
+### :man_technologist: Knowledge & Skills  
 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
