@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hello Devs, Welcome to my profile!
+### 👋 hello devs, welcome to my profile!
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.gmail.com/tdrs@cin.ufpe.br/)](https://www.gmail.com/tdrs@cin.ufpe.br/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:thomas_tdrs@hotmail.com)](mailto:thomas_tdrs@hotmail.com)
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 😄 I like so much to travel and watch movies;
 - 👯 I am looking to collaborate on projects with open source. I believe in knowledge sharing as a methodology for improving human progress.
 
-### :man_technologist: Knowledge & Skills  
+### :man_technologist: knowledge & skills  
 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
@@ -39,7 +39,5 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8)](https://github.com/thribeiro8/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8)](https://github.com/thribeiro8/github-readme-stats)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
