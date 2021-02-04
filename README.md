@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
+[![PostgreSQL](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
