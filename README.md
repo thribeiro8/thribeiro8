@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador e café">
-
 ### 👋 hello devs, welcome to my profile!
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.gmail.com/tdrs@cin.ufpe.br/)](https://www.gmail.com/tdrs@cin.ufpe.br/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:thomas_tdrs@hotmail.com)](mailto:thomas_tdrs@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thribeiro8/)](https://www.instagram.com/thribeiro8/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-ribeiro-986699173/)](https://www.linkedin.com/in/thomas-ribeiro-986699173/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thribeiro8)](https://twitter.com/thribeiro8)
@@ -43,5 +39,4 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
