@@ -1,9 +1,4 @@
-
 <!--
-**thribeiro8/thribeiro8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,14 +24,24 @@ Here are some ideas to get you started:
 
 ### :man_technologist: knowledge & skills  
 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
-[![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python&link=https://github.com/thribeiro8/)](https://github.com/thribeiro8/)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<!--
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+-->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
