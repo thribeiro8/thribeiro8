@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
