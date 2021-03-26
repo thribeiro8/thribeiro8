@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thribeiro8)](https://twitter.com/thribeiro8)
 
 - 💻 I’m currently working on Python and JS technologies;
-- 📚 I’m currently learning more about SQL and PL/SQL;
-- 😄 I like so much to travel and watch movies;
+- 📚 I’m currently studying Pos Graduating in Software Engineering;
+- 😄 I like so much to travel and watch movies and tv series;
 - 👯 I am looking to collaborate on projects with open source. I believe in knowledge sharing as a methodology for improving human progress.
 
 ### :man_technologist: knowledge & skills  
