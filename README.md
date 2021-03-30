@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 	✅Welcome to my GitHub🚀
 </h1>
 
+![](https://komarev.com/ghpvc/?username=thribeiro8&color=blue&style=flat)
+
 ### 👦About me :seedling: : 
 - 👋 I'm **Thomas Ribeiro**.
 - 📌 I'm from Pernambucano, Recife, Brazil.
