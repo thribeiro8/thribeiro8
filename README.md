@@ -11,38 +11,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 hello devs, welcome to my profile!
+<h1 align="center"> 
+	✅Welcome to my GitHub🚀
+</h1>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thribeiro8/)](https://www.instagram.com/thribeiro8/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-ribeiro-986699173/)](https://www.linkedin.com/in/thomas-ribeiro-986699173/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thribeiro8)](https://twitter.com/thribeiro8)
+### 👦About me :seedling: : 
+- 👋 I'm **Thomas Ribeiro**.
+- 📌 I'm from Pernambucano, Recife, Brazil.
+- 💼 Currently I'm Systems Developer and Tech Enthusiast.
+- 🎓 I'm graduated in Information Management ([UFPE](https://www.ufpe.br/)), Pos Graduating in Software Engineering ([FAFIRE](https://www.fafire.br/)) and Several **Online Courses**, **Documentation**, **Research** and much **Practice** as a Good **Curious Student**! 
+- 💬 Ask me about **JavaScript**, I can help you!
+```javascript
+console.log('Hello World');
+```
+- 🛠️ Studying to become a **Web Developer**.
+- 🔭 Curiosities: Surfer, Movie Buff, Soccer Player, and New Tech Blogger.
 
-- 💻 I’m currently working on Python and JS technologies;
-- 📚 I’m currently studying Pos Graduating in Software Engineering;
-- 😄 I like so much to travel and watch movies and tv series;
-- 👯 I am looking to collaborate on projects with open source. I believe in knowledge sharing as a methodology for improving human progress.
+<hr>
 
-### :man_technologist: knowledge & skills  
+### ⚡ Skills:
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 📦 Databases:
+- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
 
-<!--
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+### 🧰 Tools:
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+
+### :desktop_computer: OS
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF)
+
+<!-- 
+### :bulb: General Statistics
+[![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
+### 📈 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
+## ✅ Get in Touch! ✉️
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/thribeiro8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-ribeiro-986699173/)](https://www.linkedin.com/in/thomas-ribeiro-986699173/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thribeiro8)](https://twitter.com/thribeiro8)
