@@ -42,12 +42,11 @@ console.log('Hello World');
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
 - ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF)
 
-<!-- 
 ### :bulb: General Statistics
-[![Github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
+[![Thomas github stats](https://github-readme-stats.vercel.app/api?username=thribeiro8&theme=cobalt&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
+
 ### 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&theme=radical&count_private=true&show_icons=true)](https://github.com/thribeiro8/github-readme-stats)
--->
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thribeiro8&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
