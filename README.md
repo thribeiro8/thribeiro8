@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 👦 About me :seedling:  
 - 👋 I'm **Thomas Ribeiro**.
 - 📌 I'm from Pernambuco, Recife, Brazil.
-- 💼 Currently I'm Software Projects Analyst and Tech Enthusiast.
+- 💼 Currently I'm Software Projects Analyst ([NEUROTECH](https://www.neurotech.com.br/)) and Tech Enthusiast.
 - 🎓 I'm graduated in Information Management ([UFPE](https://www.ufpe.br/)), Pos Graduating in Software Engineering ([FAFIRE](https://www.fafire.br/)) and Several **Online Courses**, **Documentation**, **Research** and much **Practice** as a Good **Curious Student**! 
 - 💬 Ask me about **JavaScript**, I can help you!
 ```javascript
