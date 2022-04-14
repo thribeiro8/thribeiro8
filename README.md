@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 📌 I'm from Pernambuco, Recife, Brazil.
 - 💼 Currently I'm Software Projects Analyst ([NEUROTECH](https://www.neurotech.com.br/)) and Tech Enthusiast.
 - 🎓 I'm graduated in Information Management ([UFPE](https://www.ufpe.br/)), Pos Graduating in Software Engineering ([FAFIRE](https://www.fafire.br/)) and Several **Online Courses**, **Documentation**, **Research** and much **Practice** as a Good **Curious Student**! 
-- 💬 Ask me about **JavaScript**, I can help you!
-```javascript
-console.log('Hello World');
+- 💬 Ask me about **Python**, I can help you!
+```python
+print('Hello World');
 ```
-- 🛠️ Studying to become a **Web Developer**.
+- 🛠️ Studying to become a better **Developer** each day.
 - 🔭 Curiosities: Surfer, Movie Buff, Soccer Player, and New Tech Blogger.
 
 <hr>
