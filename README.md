@@ -32,7 +32,7 @@ print('Hello World');
 <hr>
 
 ### ⚡ Skills
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-purple?logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript)
 
 ### 📦 Databases
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
