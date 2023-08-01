@@ -7,13 +7,13 @@
 ### 👦 About me :seedling:  
 - 👋 I'm **Thomas Ribeiro**.
 - 📌 I'm from Pernambuco, Recife, Brazil.
-- 💼 Currently I'm Software Projects Analyst ([NEUROTECH](https://www.neurotech.com.br/)) and Tech Enthusiast.
+- 💼 Currently, I'm Tech Lead and Scrum Master at ([ATOS](https://atos.net/pt-br/brasil-atos)) and Tech Enthusiast.
 - 🎓 I'm graduated in Information Management ([UFPE](https://www.ufpe.br/)), Pos Graduating in Software Engineering ([FAFIRE](https://www.fafire.br/)) and Several **Online Courses**, **Documentation**, **Research** and much **Practice** as a Good **Curious Student**! 
-- 💬 Ask me about **Python**, I can help you!
-```python
-print('Hello World');
+- 💬 Ask me about **Java**, I can help you!
+```java
+System.out.println("Hello, nice to meet you!");
 ```
-- 🛠️ Studying to become a better **Developer** each day.
+- 🛠️ Becoming a better **Developer** each day.
 - 🔭 Curiosities: Surfer, Movie Buff, Soccer Player, and New Tech Blogger.
 
 <hr>
